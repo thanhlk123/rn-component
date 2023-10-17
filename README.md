@@ -16,3 +16,6 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## Global modal: 
  - ![Global modal demo](https://i.imgur.com/CILsSgx.gif)
+
+## Collapsible:
+ - ![Collapsible Demo](https://i.imgur.com/fMtbGZx.gif)
