@@ -35,7 +35,7 @@
  - Show multi modal: check example + origin repo
 
 ### Illutration: 
- - ![Video demo](https://user-images.githubusercontent.com/33973551/260233170-7c859f7b-5d5a-4a3c-8a8a-c0b3ff2fab7b.mp4)
+ - ![Video demo](https://i.imgur.com/CILsSgx.gif)
 
 
 
