@@ -34,7 +34,7 @@
 ```
  - Show multi modal: check example + origin repo
 
-### Illutration: 
+### Demo: 
  - ![Video demo](https://i.imgur.com/CILsSgx.gif)
 
 

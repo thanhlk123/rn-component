@@ -15,7 +15,7 @@
  - text?: string;
  - onToggle?: (newValue: boolean) => void;
 
-### Illustration:
+### Demo:
  - ![Screenshot Checkbox](https://i.imgur.com/l8YmjB3.gif)
 
 ## Checkbox with Reanimated:
@@ -33,6 +33,6 @@
  - text?: string;
  - onToggle?: (newValue: boolean) => void;
 
-### Illustration:
+### Demo:
  - ![Screenshot Checkbox with reanimated](https://i.imgur.com/CBuXeJm.gif)
  
