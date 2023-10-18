@@ -19,3 +19,6 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## Collapsible:
  - ![Collapsible Demo](https://i.imgur.com/fMtbGZx.gif)
+
+## Toast (snack-bar): 
+ - ![toast info Demo](https://i.imgur.com/gbcUIeZ.gif)
