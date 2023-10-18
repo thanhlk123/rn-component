@@ -1,9 +1,10 @@
 import {View, StyleSheet} from 'react-native';
 import React from 'react';
 // import CollapsibleExample from './src/collapsible/example';
-import Example from './src/snack-bar/example';
+// import Example from './src/snack-bar/example';
 // import CheckboxIntegrate from './src/check-box/example';
 // import GlobalModalIntegrate from './src/global-modal/example';
+import Example from './src/text/example';
 
 const App = () => {
   return (
@@ -16,6 +17,8 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
   },
 });
 

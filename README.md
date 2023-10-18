@@ -22,3 +22,11 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## Toast (snack-bar): 
  - ![toast info Demo](https://i.imgur.com/gbcUIeZ.gif)
+
+ ## Text:
+ ```    
+    <Text>example</Text>
+    <Text fontSize={18} text="Example 2" />
+    <Text fontWeight="bold" fontSize={28} color="red" text="Example 3" />
+    <Text fontWeight="bold" fontSize={28} color="red" t18n="Tenu.dashboard" />
+```
