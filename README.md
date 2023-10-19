@@ -35,3 +35,6 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## List View
  - ![List View Demo](https://i.imgur.com/iVVgVZb.gif)
+
+## Radio Button
+ - ![Radio button](https://i.imgur.com/ioV27yY.gif)
