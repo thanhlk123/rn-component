@@ -32,3 +32,6 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ```
 ## Text Input: 
  - ![Text Input Demo](https://i.imgur.com/qzYD1Ry.gif)
+
+## List View
+ - ![List View Demo](https://i.imgur.com/iVVgVZb.gif)

@@ -5,7 +5,8 @@ import React from 'react';
 // import CheckboxIntegrate from './src/check-box/example';
 // import GlobalModalIntegrate from './src/global-modal/example';
 // import Example from './src/text/example';
-import Example from './src/text-input/example';
+// import Example from './src/text-input/example';
+import Example from './src/list-view/example';
 
 const App = () => {
   return (
