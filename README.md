@@ -30,3 +30,5 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
     <Text fontWeight="bold" fontSize={28} color="red" text="Example 3" />
     <Text fontWeight="bold" fontSize={28} color="red" t18n="Tenu.dashboard" />
 ```
+## Text Input: 
+ - ![Text Input Demo](https://i.imgur.com/qzYD1Ry.gif)

@@ -4,7 +4,8 @@ import React from 'react';
 // import Example from './src/snack-bar/example';
 // import CheckboxIntegrate from './src/check-box/example';
 // import GlobalModalIntegrate from './src/global-modal/example';
-import Example from './src/text/example';
+// import Example from './src/text/example';
+import Example from './src/text-input/example';
 
 const App = () => {
   return (
@@ -17,8 +18,6 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
   },
 });
 
