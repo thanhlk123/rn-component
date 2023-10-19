@@ -2,7 +2,7 @@
  - Text Input component to reuse.
 
 ### Dependencies:
- - [@shopify/flash-list](https://www.npmjs.com/package/@shopify/flash-list): Follow this document to setup reanimated
+ - [@shopify/flash-list](https://www.npmjs.com/package/@shopify/flash-list)
 
 ### Props: 
  - type: "flashlist" | any;
