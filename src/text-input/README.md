@@ -2,7 +2,7 @@
  - Text Input component to reuse.
 
 ### Dependencies:
- - [react-i18next](https://www.npmjs.com/package/react-i18next): Follow this document to setup reanimated
+ - [react-i18next](https://www.npmjs.com/package/react-i18next)
  - [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/): Follow this document to setup reanimated
 
 ### Props:

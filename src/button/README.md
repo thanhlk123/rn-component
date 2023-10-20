@@ -23,11 +23,11 @@
     - "outline"
     - "default": default value (no style)
 ### Usage:
- ```    
+```    
     <Button text="Example 1" preset="primary" />
 
     <Button style={styles.btnStyle_2} text="Example 1" preset="outline" />
-    
+
     <Button style={styles.btnStyle_3}>
         <Text>Hello world</Text>
     </Button>

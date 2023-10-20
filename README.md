@@ -39,7 +39,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Radio Button
  - ![Radio button](https://i.imgur.com/ioV27yY.gif)
 
- ## Button: 
+## Button: 
 ```    
     <Button text="Example 1" preset="primary" />
 
@@ -49,3 +49,5 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
         <Text>Hello world</Text>
     </Button>
 ```
+## Modal: 
+- ![Modal Demo](https://i.imgur.com/tjVRx2d.gif)

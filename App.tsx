@@ -8,7 +8,8 @@ import React from 'react';
 // import Example from './src/text-input/example';
 // import Example from './src/list-view/example';
 // import Example from './src/radio-button/example';
-import Example from './src/button/example';
+// import Example from './src/button/example';
+import Example from './src/modal/example';
 
 const App = () => {
   return (
