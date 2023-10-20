@@ -38,3 +38,14 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## Radio Button
  - ![Radio button](https://i.imgur.com/ioV27yY.gif)
+
+ ## Button: 
+```    
+    <Button text="Example 1" preset="primary" />
+
+    <Button style={styles.btnStyle_2} text="Example 1" preset="outline" />
+
+    <Button style={styles.btnStyle_3}>
+        <Text>Hello world</Text>
+    </Button>
+```
