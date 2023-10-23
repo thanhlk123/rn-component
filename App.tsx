@@ -10,7 +10,8 @@ import React from 'react';
 // import Example from './src/radio-button/example';
 // import Example from './src/button/example';
 // import Example from './src/modal/example';
-import Example from './src/drop-down/example';
+// import Example from './src/drop-down/example';
+import Example from './src/select/example';
 
 const App = () => {
   return (
