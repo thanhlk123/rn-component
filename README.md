@@ -55,5 +55,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Dropdown (integrate with modal above):
  - ![Dropdown demo](https://i.imgur.com/Kl7oznG.gif)
 
-### Select (integrate with modal above):
+## Select (integrate with modal above):
  - ![Select demo](https://i.imgur.com/YUD6I39.gif)
+
+ ### OTP:
+ - ![OTP demo](https://i.imgur.com/0wlEgAm.gif)

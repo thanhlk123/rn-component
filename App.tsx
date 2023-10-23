@@ -11,7 +11,8 @@ import React from 'react';
 // import Example from './src/button/example';
 // import Example from './src/modal/example';
 // import Example from './src/drop-down/example';
-import Example from './src/select/example';
+// import Example from './src/select/example';
+import Example from './src/otp/example';
 
 const App = () => {
   return (
