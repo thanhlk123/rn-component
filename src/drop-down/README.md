@@ -47,5 +47,5 @@
 
 
 ### Demo:
- - ![Dropdown demo](https://i.imgur.com/1FyyeU6.gif)
+ - ![Dropdown demo](https://i.imgur.com/Kl7oznG.gif)
 
