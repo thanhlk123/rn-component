@@ -60,3 +60,6 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
  ### OTP:
  - ![OTP demo](https://i.imgur.com/0wlEgAm.gif)
+
+ ### Calendar Range picker:
+ - ![Range picker](https://i.imgur.com/fmGCdFx.gif)
